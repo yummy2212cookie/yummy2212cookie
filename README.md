@@ -7,7 +7,7 @@ Software/Web Development with a strong interest in Full-Stack Development,
 Machine Learning, and Deep Learning. I enjoy working on practical projects
 and always strive to improve my skills in OOP and Web Dev.<p align="center">
 
-🚀 What I'm Working On<p align="center">
+<p strong>🚀 What I'm Working On: </p> 
 
 🎓 Learning UI5 & TypeScript – Expanding my frontend development knowledge.<p align="center">
 
