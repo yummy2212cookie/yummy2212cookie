@@ -26,7 +26,7 @@ and always strive to improve my skills in OOP and Web Dev.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br/>
 ![SAP Analytics Cloud](https://img.shields.io/badge/SAP_Analytics_Cloud-%23003366.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP EPPM](https://img.shields.io/badge/SAP_EPPM-%23003366.svg?style=for-the-badge&logo=sap&logoColor=white)
-![SAP UI5]([https://img.shields.io/badge/SAP%20UI5-%230000FF.svg?style=for-the-badge&logo=sap&logoColor=white](https://www.google.com/imgres?q=ui5%20logo&imgurl=https%3A%2F%2Fopenui5.org%2F5bdd288371ed8100415f04563acc8dfe%2Fphenix_blue.svg&imgrefurl=https%3A%2F%2Fopenui5.org%2Fguidelines%2F&docid=xTguv8Hj_avWzM&tbnid=ZxbPM0aDK67ECM&vet=12ahUKEwigvK3H2qKMAxU0gf0HHUYNCXwQM3oECBcQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwigvK3H2qKMAxU0gf0HHUYNCXwQM3oECBcQAA))
+![SAP UI5](https://img.shields.io/badge/SAP%20UI5-%23000000.svg?style=for-the-badge&logo=sap&logoColor=white)
 
 
 
