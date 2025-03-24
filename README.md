@@ -1,6 +1,6 @@
-Hi there! 👋 I'm Tom<p align="center">
+Hi there! 👋 I'm Tom
 
-💻 About Me<p align="center">
+💻 About Me
 
 I'm a Business Informatics student at SAP, currently specializing in
 Software/Web Development with a strong interest in Full-Stack Development,
@@ -40,4 +40,4 @@ and always strive to improve my skills in OOP and Web Dev.<p align="center">
 ---
 [![](https://visitcount.itsvg.in/api?id=yummy2212cookie&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->( https://gprm.itsvg.in ) -->
+
