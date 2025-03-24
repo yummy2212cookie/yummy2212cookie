@@ -1,20 +1,20 @@
-Hi there! 👋 I'm Tom
+# Hi there! 👋 I'm Tom
 
-💻 About Me
+# 💻 About Me
 
 I'm a Business Informatics student at SAP, currently specializing in
 Software/Web Development with a strong interest in Full-Stack Development,
 Machine Learning, and Deep Learning. I enjoy working on practical projects
-and always strive to improve my skills in OOP and Web Dev.<p align="center">
+and always strive to improve my skills in OOP and Web Dev.
 
-<p strong>🚀 What I'm Working On: </p> 
+# 🚀 What I'm Working On:
 
-🎓 Learning UI5 & TypeScript – Expanding my frontend development knowledge.<p align="center">
+🎓 Learning UI5 & TypeScript – Expanding my frontend development knowledge.
 
-🤖 Exploring Machine Learning – Studying ML/DL fundamentals while balancing my studies.<p align="center">
+🤖 Exploring Machine Learning – Studying ML/DL fundamentals while balancing my studies.
 
 📊 Building Standard Content for SAP Clients – Developing analytical 
-  content in SAP Analytics Cloud to enhance business insights.<p align="center">
+  content in SAP Analytics Cloud to enhance business insights.
 
 
 
