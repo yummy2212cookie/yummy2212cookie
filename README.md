@@ -9,7 +9,7 @@ and always strive to improve my skills in OOP and Web Dev.
 
 # 🚀 What I'm Working On:
 
-- 🔍 Exploring Design Patterns in Java to deepen my understanding of software architecture.
+🔍 Exploring Design Patterns in Java to deepen my understanding of software architecture.
 
 🎓 Learning UI5 & TypeScript – Expanding my frontend development knowledge.
 
